@@ -1,4 +1,4 @@
-Software Developer | Coding Enthusiast | Problem Solver
+<b>Software Developer | Coding Enthusiast | Problem Solver</b>
 
 👋 Hello! I'm Neha Sharma, a software developer passionate about coding and problem-solving. I specialize in Web Development. Always eager to learn and explore new technologies.
 
