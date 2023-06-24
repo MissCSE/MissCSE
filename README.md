@@ -8,7 +8,8 @@ Software Developer | Coding Enthusiast | Problem Solver
 
 🔨 Strong believer in teamwork and knowledge sharing. Let's connect and code together to make an impact!
 
-!--📫 Reach me at [your email] or connect on LinkedIn [your LinkedIn profile URL]. Open to new opportunities, collaborations, and tech discussions.
+<!--- 📫 Reach me at [your email] or connect on LinkedIn [your LinkedIn profile URL]. Open to new opportunities, collaborations, and tech discussions.- -->
+
 
 Let's make a difference in the world of technology! ✌️
--->
+
