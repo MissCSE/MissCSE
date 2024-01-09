@@ -2,7 +2,7 @@
 
 👋 Hello! I'm Neha Sharma, a software developer passionate about coding and problem-solving. I specialize in Web Development. Always eager to learn and explore new technologies.
 
-💻 Experienced in Web Technologies (HTML, CSS and JS). I create efficient, scalable, and user-friendly applications.
+💻 Experienced in Web Technologies (HTML, CSS, JS, ReactJS and NodeJS). I create efficient, scalable, and user-friendly applications.
 
 🌱 Continuous learner, staying up-to-date with industry trends. Love collaborating on open-source projects and contributing to the community.
 
