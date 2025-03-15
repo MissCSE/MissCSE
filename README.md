@@ -1,15 +1,13 @@
-<b>Software Developer | Coding Enthusiast | Problem Solver</b>
+👋 Hello! I'm Neha Sharma, a passionate Java Developer who loves solving complex problems and building efficient, scalable applications.
 
-👋 Hello! I'm Neha Sharma, a software developer passionate about coding and problem-solving. I specialize in Web Development. Always eager to learn and explore new technologies.
+💻 Tech Stack:
+✔ Backend: Java, Spring Boot, REST APIs, Microservices
+✔ Database: MySQL, PostgreSQL
+✔ DevOps & Cloud: Docker, Kubernetes, AWS, Azure
+✔ Data Processing: Kafka, Multithreading, Parallel Processing
 
-💻 Experienced in Web Technologies (HTML, CSS, JS, ReactJS and NodeJS). I create efficient, scalable, and user-friendly applications.
+🌱 Continuous Learner: Always exploring Java's latest features, performance optimizations, and best practices in system design and backend development.
 
-🌱 Continuous learner, staying up-to-date with industry trends. Love collaborating on open-source projects and contributing to the community.
+🔨 Team Player & Collaborator: Strong believer in knowledge sharing and open-source contributions. Love working on high-performance applications that make a difference.
 
-🔨 Strong believer in teamwork and knowledge sharing. Let's connect and code together to make an impact!
-
-<!--📫 Reach me at [your email] or connect on LinkedIn [your LinkedIn profile URL]. Open to new opportunities, collaborations, and tech discussions.--->
-
-
-Let's make a difference in the world of technology! ✌️
-
+💬 Let’s Connect & Build Scalable Systems Together!
